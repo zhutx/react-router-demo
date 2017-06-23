@@ -44,7 +44,7 @@ module.exports = {
     // 配置plugin
     plugins: [
         new HtmlwebpackPlugin({
-            title: 'My first react src'
+            title: 'react-router-demo'
         })
     ]
 };
